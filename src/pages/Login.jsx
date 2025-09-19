@@ -93,7 +93,7 @@ export default function Login() {
         </form>
 
         <div className="flex justify-between items-center mt-4 text-sm">
-          <a href="#" className="text-blue-600 hover:underline">
+          <a href="/forgot-password" className="text-blue-600 hover:underline">
             Forgot Password?
           </a>
         </div>
